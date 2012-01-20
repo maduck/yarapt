@@ -1,0 +1,6 @@
+WARNING THIS IS EXPERIMENTAL.
+DO NOT USE IN PRODUCTION UNLESS YOU EXACTLY KNOW WHAT YOU ARE DOING.
+
+This little tool is in heavy production and will be rewritten shortly.
+It's main goal is to synchronize installations without the need of heavy
+configuration.

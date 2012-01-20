@@ -1,0 +1,24 @@
+[
+    {
+				"reference": true,
+        "username": "normaluser",
+        "private_key": "~/.ssh/id_rsa",
+        "sudo": true,
+        "host": "server1",
+        "ssh": true,
+        "password": null
+		},
+    {
+        "host": "termserv",
+        "sudo": false,
+        "ssh": false
+    },
+    {
+        "username": "root",
+        "private_key": "~/.ssh/id_rsa",
+        "sudo": false,
+        "host": "server2",
+        "ssh": true,
+        "password": "justarootpassword"
+		}
+]
